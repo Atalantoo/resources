@@ -1,3 +1,5 @@
+#MobileGame #IndieGame #Puzzle #2048 #Cars
+
 Hello, new game '2048 3D Cars!' works on phone AND tablet!
 
 https://play.google.com/store/apps/details?id=com.atalantoo.game20483dcars
