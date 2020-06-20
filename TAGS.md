@@ -26,7 +26,7 @@ Events
 #screenshot #screenshotsaturday
 ````
 
-## Exemples
+## Examples
 
 Cars2048
 ````tags
